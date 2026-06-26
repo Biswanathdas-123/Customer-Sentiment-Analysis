@@ -1,0 +1,21 @@
+Review,Sentiment
+"The product quality is excellent and I am very happy.",Positive
+"Delivery was fast and the packaging was perfect.",Positive
+"I love this product. Highly recommended!",Positive
+"Excellent customer service and great experience.",Positive
+"The item works exactly as expected.",Positive
+"The product is okay, nothing special.",Neutral
+"It is average and meets my expectations.",Neutral
+"The quality is acceptable for the price.",Neutral
+"I have no strong opinion about this product.",Neutral
+"It works fine but could be improved.",Neutral
+"I am disappointed with the quality.",Negative
+"The product stopped working after one week.",Negative
+"Very poor customer service.",Negative
+"I received a damaged item.",Negative
+"Completely waste of money.",Negative
+"The product exceeded my expectations.",Positive
+"Easy to use and very reliable.",Positive
+"The packaging was damaged but the product is fine.",Neutral
+"I will definitely buy this again.",Positive
+"The instructions were difficult to understand.",Negative
